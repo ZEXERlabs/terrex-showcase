@@ -9,6 +9,8 @@ TERREX is a full-stack platform for representing real-world locations as interac
 
 The platform combines geographic information, persistent world memory, real-world observations, 3D reconstruction, terrain generation, real-time multiplayer and environmental simulation into a single explorable world.
 
+![TERREX World](screenshots/0008.png)
+
 ---
 
 ## 🌍 Explore TERREX
@@ -432,25 +434,30 @@ Separating reconstruction functionality into ZRE so that the reconstruction laye
 
 Screenshots and demonstrations of the TERREX world will be added here.
 
-### World Viewer
+### Avator 
 
-*Screenshot coming soon*
+![TERREX World](screenshots/0005.png) ![TERREX World](screenshots/0006.png)
+*curently you are able to pick from a male or female avator and choose the color of your choice.With time i will improve the characters*
 
 ### Multiplayer
 
-*Screenshot coming soon*
+![TERREX World](screenshots/0001.png)
+*different characters can login at the sametime and co-exist in the world*
 
 ### 3D Reconstruction
 
-*Screenshot coming soon*
+![TERREX World](screenshots/0007.png)
+*Initially i was using tripo as my reconstruction engine,hence the building like structure in the background.That was an attempt to test the system and the results were not quite what i wanted hence i decided to come up with ZRE ,my own reconstruction engine.However it is yet to be fully done*
 
 ### Contribution System
 
-*Screenshot coming soon*
+![TERREX World](screenshots/0004.png)
+*User can chip in and contribute to the world*
 
-### Administration
+### Location picker
 
-*Screenshot coming soon*
+![TERREX World](screenshots/0000.png)
+*enter a location or use your current one*
 
 ---
 
