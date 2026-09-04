@@ -1,8 +1,4 @@
-Good. Let's put the **first complete README** in place.
 
-Open `README.md` and paste this:
-
-````markdown
 # TERREX
 
 ## World-Aware 3D Reconstruction Platform
